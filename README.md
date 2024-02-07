@@ -22,7 +22,7 @@ Jyot yt is a website which is made for my own youtube channel promotion which up
 
 ## Lessons Learned
 
-if you want to develop something then do not get frustreted with errors
+if you want to develop something then do not get frustreted with errors.
 
 
 ## Feedback
